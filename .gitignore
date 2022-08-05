@@ -1,7 +1,7 @@
 # Adding config.py file.
 config.py
 # Adding additional files.
-*.idea
+
 *.gitattributes
 *.ini
 # Byte-compiled / optimized / DLL files
